@@ -1,0 +1,7 @@
+# CODEOWNERS — Book-1-Rooting-the-framework
+# All content files require author approval
+* @SAHearn1
+AGENTS.md @SAHearn1
+CLAUDE.md @SAHearn1
+GOVERNANCE.md @SAHearn1
+CODEOWNERS @SAHearn1
